@@ -206,6 +206,6 @@ NB! Имя члена команды может содержать **пробе�
 
 Например: `repeater('STRING', { repeatTimes: 3, separator: '**', addition: 'PLUS', additionRepeatTimes: 3, additionSeparator: '00' })` => `'STRINGPLUS00PLUS00PLUS**STRINGPLUS00PLUS00PLUS**STRINGPLUS00PLUS00PLUS'`
 
-Напишите свой код в `src/extended-repeater.js`.
+Решение в `src/extended-repeater.js`.
 
 ---
